@@ -192,3 +192,11 @@
 - [ ] LiveCycle Rights Management
 - [ ] Security Envelope
 - [ ] Email Review
+
+#### Q28. You plan to post a PDF form online and gather the submitted data in a database. What must you have to do this?
+
+- [ ] A web server which supports WebDAV and CGI
+- [ ] A web server which supports Microsoft Excel
+- [ ] A web server which supports XML and FDF
+- [ ] A web server which supports Microsoft Access
+
